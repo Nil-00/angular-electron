@@ -32,6 +32,9 @@
 npm-debug.log
 testem.log
 /typings
+/data
+/dist
+/8MAN*
 
 # e2e
 /e2e/*.js
